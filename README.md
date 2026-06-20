@@ -108,7 +108,7 @@ Relevant Coursework:
 ## Connect With Me
 
 * GitHub: [GitHub Profile](https://github.com/Afaf-yunas11?utm_source=chatgpt.com)
-* LinkedIn: Add your LinkedIn profile URL here
+* LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/afaf-yunas-17a162217)
 * Portfolio: [Live Portfolio Website](https://afaf-yunas11.github.io/AY_Portfolio/?utm_source=chatgpt.com)
 
 ## License
